@@ -7,7 +7,7 @@
 For the entirety  of AA we will be using a dynamic asset setup for streams. Its a pretty straightforward implementation.
 Any Issues contact Benjamins#0001
 
-1. Download the .json file from the folder
+1. [Download](https://github.com/AOE-Esports/AABroadcast/releases) the .json file from the folder
 2. Download move the move transition, transition table, and spectralizer plugins
 	1. https://obsproject.com/forum/resources/move-transition.913/
 	2. https://obsproject.com/forum/resources/transition-table.1174/
